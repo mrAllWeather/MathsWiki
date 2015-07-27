@@ -6,6 +6,9 @@ Creation-Date: 2015-07-26T12:58:29+09:30
 Created Sunday 26 July 2015
 
 [[+Basic definitions]]
+
 [[+General properties of determinates]]
+
 [[+Row operations on determinates]]
+
 [[+The Adjoint]]

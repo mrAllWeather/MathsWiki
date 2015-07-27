@@ -6,6 +6,9 @@ Creation-Date: 2015-07-26T13:24:25+09:30
 Created Sunday 26 July 2015
 
 [[+The Natural Logarithm ln]]
+
 [[+The Exponential Function exp]]
+
 [[+General Exponential and Logarithmic Functions]]
+
 [[+Hyperbolic Functions]]

@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-07-26T13:37:47+09:30
 
-====== Definitions ======
+====== z - Definitions ======
 Created Sunday 26 July 2015
 
 === Functions ===

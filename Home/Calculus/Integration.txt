@@ -6,7 +6,12 @@ Creation-Date: 2015-07-26T13:20:54+09:30
 Created Sunday 26 July 2015
 
 [[+The Area under y = x^2]]
+
 [[+Summation Notation]]
+
 [[+The Definite Integral]]
+
 [[+Properties of the Definite Integral]]
+
 [[+The Fundamental Theorem of Calculus]]
+

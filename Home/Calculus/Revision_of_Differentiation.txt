@@ -6,7 +6,11 @@ Creation-Date: 2015-07-26T13:22:35+09:30
 Created Sunday 26 July 2015
 
 [[+Rules of Differentiation]]
+
 [[+The Chain Rule]]
+
 [[+Evaluating the Definite Integral]]
+
 [[+Derivatives of inverse functions]]
+
 [[+Derivatives of inverse trigonometric functions]]
