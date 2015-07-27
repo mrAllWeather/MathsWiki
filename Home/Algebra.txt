@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T12:52:26+09:30
+
+====== Algebra ======
+Created Sunday 26 July 2015
+
+[[+Matrices and Linear Equations]]
+
+[[+Determinates]]
+
+[[+Optimisation and Convex Sets]]
+
+[[+The Vector Space (R^n)]]
+
+[[+Eigenvalues and Eigenvectors]]
+
+

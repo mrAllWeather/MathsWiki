@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T13:05:51+09:30
+
+====== Applications ======
+Created Sunday 26 July 2015
+
+[[+Dynamical Systems]]
+
+[[+Markov Chains]]
+

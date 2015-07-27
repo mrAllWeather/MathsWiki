@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T13:25:46+09:30
+
+====== Techniques of Integration ======
+Created Sunday 26 July 2015
+
+[[+Antiderivatives]]
+[[+Integration by Substitution]]
+[[+Integration by Parts]]
+[[+Trigonometric Integrals and Reduction Formula]]
+[[+Trigonometric Substitution]]
+[[+Integration of Rational Functions by Partial Fractions]]

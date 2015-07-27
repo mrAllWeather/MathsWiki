@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T13:22:35+09:30
+
+====== Revision of Differentiation ======
+Created Sunday 26 July 2015
+
+[[+Rules of Differentiation]]
+[[+The Chain Rule]]
+[[+Evaluating the Definite Integral]]
+[[+Derivatives of inverse functions]]
+[[+Derivatives of inverse trigonometric functions]]

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T13:37:47+09:30
+
+====== Definitions ======
+Created Sunday 26 July 2015
+
+=== Functions ===
+iff		if and only if
+{{./equation.png?type=equation}}		implies
+{{./equation001.png?type=equation}}	is equivalent to
+elements 	objects within a set

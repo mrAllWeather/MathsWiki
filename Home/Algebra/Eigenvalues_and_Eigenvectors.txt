@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T13:03:20+09:30
+
+====== Eigenvalues and Eigenvectors ======
+Created Sunday 26 July 2015
+
+[[+Eignevalue problem]]
+
+[[+Some properties of Eigenvalues]]
+
+[[+Diagonalisation]]
+
+[[+Caylay-Hamilton Theorem]]
+
+[[+Applications]]

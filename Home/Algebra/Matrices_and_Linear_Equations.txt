@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T12:54:36+09:30
+
+====== Matrices and Linear Equations ======
+Created Sunday 26 July 2015
+
+[[+Matrices]]
+
+[[+Linear Equations]]
+
+[[+Gauss-Jordan elimination]]
+
+[[+Linear Combinations]]
+
+[[+Homogeneous equations]]
+
+[[+Elementary matrices and the inverse matrix]]

@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T12:59:00+09:30
+
+====== General properties of determinates ======
+Created Sunday 26 July 2015
+

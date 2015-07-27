@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T13:36:55+09:30
+
+====== Sets ======
+Created Sunday 26 July 2015
+
+A set is a collection of objects called //elements//
+
+
+**Definitions**
+elements - objects within a set

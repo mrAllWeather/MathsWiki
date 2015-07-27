@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T12:58:42+09:30
+
+====== Row operations on determinates ======
+Created Sunday 26 July 2015
+

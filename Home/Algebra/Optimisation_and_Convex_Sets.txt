@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-26T13:00:29+09:30
+
+====== Optimisation and Convex Sets ======
+Created Sunday 26 July 2015
+
+[[+Convex Sets]]
+[[+Methods for solving optimisation problems]]
+[[+Formulation of optimisation problems]]
