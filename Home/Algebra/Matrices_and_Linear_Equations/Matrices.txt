@@ -1,0 +1,100 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-27T17:02:04+09:30
+
+====== Matrices ======
+Created Monday 27 July 2015
+
+{{./equation.png?type=equation}} 	{{./equation001.png?type=equation}} matrix in an array of numbers
+
+=== Equality ===
+{{./equation002.png?type=equation}}
+
+=== Addition ===
+{{./equation003.png?type=equation}}
+
+//example//
+{{./equation004.png?type=equation}}
+
+//Associative//
+{{./equation005.png?type=equation}}
+
+//Communtative// 
+{{./equation006.png?type=equation}}
+
+//Note:// 
+{{./equation007.png?type=equation}}
+{{./equation008.png?type=equation}}
+This is the Zero matrix as will be touched on below.
+
+== Scalar Multiplication ==
+{{./equation009.png?type=equation}}
+
+//example//
+{{./equation010.png?type=equation}}
+
+== Matrix Multiplication ==
+{{./equation011.png?type=equation}} of order {{./equation012.png?type=equation}}
+{{./equation013.png?type=equation}} of order {{./equation014.png?type=equation}}
+then {{./equation015.png?type=equation}} is defined to be the matrix {{./equation016.png?type=equation}} with {{./equation018.png?type=equation}}-th entry
+	{{./equation019.png?type=equation}}
+is of order {{./equation020.png?type=equation}}.
+
+//Associative//
+{{./equation021.png?type=equation}}
+
+//Distributive//
+{{./equation022.png?type=equation}}
+{{./equation023.png?type=equation}}
+
+{{./equation024.png?type=equation}}
+
+//Not-Communtative//
+{{./equation025.png?type=equation}}
+
+== Zero Matrix ==
+{{./equation026.png?type=equation}}
+
+{{./equation027.png?type=equation}}
+
+But {{./equation028.png?type=equation}} does not prove that {{./equation030.png?type=equation}}
+
+== Identity ==
+{{./equation031.png?type=equation}}
+{{./equation034.png?type=equation}}
+	{{./equation035.png?type=equation}}
+If {{./equation036.png?type=equation}} is of order {{./equation037.png?type=equation}}, then 
+	{{./equation038.png?type=equation}}
+	
+
+== Matrix powers ==
+{{./equation039.png?type=equation}} 
+{{./equation040.png?type=equation}}
+{{./equation041.png?type=equation}}
+
+== Diagonal ==
+Square matrix with zeros of the main diagonal.
+{{./equation042.png?type=equation}}
+
+== Transpose ==
+{{./equation043.png?type=equation}}
+
+if {{./equation044.png?type=equation}} is of order {{./equation045.png?type=equation}}, then {{./equation047.png?type=equation}} is of order {{./equation048.png?type=equation}}.
+ces
+if the element of the {{./equation049.png?type=equation}}-th row and the {{./equation050.png?type=equation}}-th column of {{./equation051.png?type=equation}} is {{./equation052.png?type=equation}}
+then the element of the {{./equation053.png?type=equation}}-th row and the {{./equation054.png?type=equation}}-th column of {{./equation055.png?type=equation}} is {{./equation056.png?type=equation}}
+
+{{./equation057.png?type=equation}}
+{{./equation058.png?type=equation}}
+{{./equation059.png?type=equation}}
+{{./equation060.png?type=equation}}
+{{./equation061.png?type=equation}}
+
+The transpose of a column (row) is a row (column). This if
+{{./equation062.png?type=equation}}
+
+**Vectors** are written either as {{./equation063.png?type=equation}} matrices or as '{{./equation064.png?type=equation}}-tuples', that is
+{{./equation065.png?type=equation}}
+
+Where as 'row vectors' are {{./equation066.png?type=equation}} matrices such that {{./equation067.png?type=equation}}
+The equality, addition, and scalar multiplication properties listed above also hold for vectors.

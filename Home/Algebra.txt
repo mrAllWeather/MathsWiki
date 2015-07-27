@@ -20,4 +20,3 @@ Linear Algebra: Consisting primarily (only) with straight lines
 Structure of mathematical objects
 
 
-

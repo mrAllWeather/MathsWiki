@@ -16,3 +16,31 @@ Created Sunday 26 July 2015
 [[+Homogeneous equations]]
 
 [[+Elementary matrices and the inverse matrix]]
+
+
+Zero Matrix
+{{./equation017.png?type=equation}}
+
+{{./equation018.png?type=equation}}
+
+BUT {{./equation019.png?type=equation}} does **not** mean {{./equation020.png?type=equation}}
+
+Identity:
+ {{./equation029.png?type=equation}}
+
+{{./equation022.png?type=equation}}
+
+Matrix powers
+{{./equation023.png?type=equation}}
+{{./equation024.png?type=equation}}
+
+Diagonal
+{{./equation025.png?type=equation}}
+
+Transpose
+{{./equation026.png?type=equation}}
+
+{{./equation027.png?type=equation}} **BUT **{{./equation028.png?type=equation}}
+
+
+
