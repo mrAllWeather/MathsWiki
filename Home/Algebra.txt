@@ -15,4 +15,9 @@ Created Sunday 26 July 2015
 
 [[+Eigenvalues and Eigenvectors]]
 
+Linear Algebra: Consisting primarily (only) with straight lines
+
+Structure of mathematical objects
+
+
 

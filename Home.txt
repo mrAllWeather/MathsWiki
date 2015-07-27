@@ -5,7 +5,12 @@ Creation-Date: 2015-06-15T16:57:49+09:30
 ====== Home ======
 Created Monday 15 June 2015
 
+Lecturer:
+	Raymond Vozzo
+	Maths 725
+	Thursday 11:30-12:30
 
-[[Integrals]]
+
+[[+Calculus]]
 
 [[+Algebra]]
